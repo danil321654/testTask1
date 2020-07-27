@@ -1,7 +1,8 @@
 # OSX
 #
 .DS_Store
-
+.env
+dcash.keystore
 # Xcode
 #
 build/
